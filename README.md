@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Saleh Ahmed</h1>
 <h3 align="center">A CS student and AI enthusiast</h3>
-<h3 align="canter">I’m currently learning <strong>ML</strong></h3>
+<h3 align="canter">I’m currently learning\n <strong>ML</strong></h3>
 
 
 <h4 align="left"> - I’m currently learning <strong> ML </strong> </h4>

@@ -1,8 +1,9 @@
 <h1 align="center">Hi, I'm Saleh Ahmed</h1>
 <h3 align="center">A CS student and AI enthusiast</h3>
+<h3 align="center">I’m currently learning **ML**</h3>
 
-<h4>I’m currently learning **ML**</h4>
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 

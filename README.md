@@ -1,10 +1,7 @@
 <h1 align="center">Hi, I'm Saleh Ahmed</h1>
 <h3 align="center">A CS student and AI enthusiast,, I’m currently learning <strong>ML</strong></h3>
 
-<h4 align="left"> - 📫 How to reach me <strong> Saleh.Ahmed.nb8@gmail.com </strong> </h4>
-<p align="left">
-<a href="https://x.com/lal7_91" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/X_logo.jpg/1024px-X_logo.jpg" alt="lal7_91" height="50" width="45" /></a>
-</p>
+<h4 align="center"> - 📫 contact me on <strong>Saleh.Ahmed.nb8@gmail.com</strong> </h4>
 
 
 <h3 align="center">Languages and Tools:</h3>

@@ -2,7 +2,7 @@
 <h3 align="center">A CS student and AI enthusiast</h3>
 
 <p align="center">
-- I’m currently learning **ML**
+<h4> - I’m currently learning <strong>ML</strong> </h4>
 - 📫 How to reach me **Saleh.Ahmed.nb8@gmail.com**
 </p>
 

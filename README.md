@@ -4,7 +4,7 @@
 <h4 align="left"> - I’m currently learning <strong> ML </strong> </h4>
 <h4 align="left"> - 📫 How to reach me <strong> Saleh.Ahmed.nb8@gmail.com </strong> </h4>
 <p align="left">
-<a href="https://x.com/lal7_91" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/X_logo.jpg/1024px-X_logo.jpg" alt="lal7_91" height="30" width="40" /></a>
+<a href="https://x.com/lal7_91" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/X_logo.jpg/1024px-X_logo.jpg" alt="lal7_91" height="50" width="40" /></a>
 </p>
 
 

@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Saleh Ahmed</h1>
+<h1 align="center">Hi, I'm Saleh🙋‍♂️</h1>
 <h3 align="center">A CS student and AI enthusiast,, I’m currently learning <strong>ML</strong></h3>
 
 <h4 align="center"> - 📫 contact me on <strong>Saleh.Ahmed.nb8@gmail.com</strong> </h4>

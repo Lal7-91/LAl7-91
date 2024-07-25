@@ -1,8 +1,6 @@
 <h1 align="center">Hi, I'm Saleh Ahmed</h1>
 <h3 align="center">A CS student and AI enthusiast</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lal7-91" alt="lal7-91" /></a> </p>
-
 - I’m currently learning **ML**
 
 <h3 align="left">Connect with me:</h3>
